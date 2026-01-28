@@ -1,6 +1,8 @@
 // 01 VALUE AND VARIABLES
-let country = "Greece";
-let continent = "Europe";
+const country = "Greece";
+const continent = "Europe";
 let population = "10.000.000";
 
-console.log(country, continent, population);
+let isIsland = false;
+const language = "greek";
+console.log(country, continent, population, isIsland, language);
