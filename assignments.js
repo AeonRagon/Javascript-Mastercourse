@@ -29,3 +29,11 @@ const desricption =
   language;
 
 console.log(desricption);
+
+const desricptionNew = `${country} is in ${continent}, and its ${population} people speak ${language}`;
+
+console.log(desricptionNew);
+
+console.log(
+  `${country} is in ${continent}, and its ${population} people speak ${language}`,
+);
